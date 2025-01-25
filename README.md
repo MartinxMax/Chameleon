@@ -42,7 +42,7 @@ To build Chameleon, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MartinxMax/Tyrant.git
+   git clone https://github.com/MartinxMax/Chameleon.git
    ```
 
 2. Change to the Chameleon directory:
