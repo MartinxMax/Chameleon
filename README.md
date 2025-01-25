@@ -1,7 +1,7 @@
  
 # **Chameleon**
 
-chameleon program that can cross-compile C files and generate executable files for multiple platforms Sat one time.
+A chameleon program capable of cross-compiling C files and generating executable files for multiple platforms in a single operation.
 
 ![Chameleon Build](main/chameleon.jpg)
 
